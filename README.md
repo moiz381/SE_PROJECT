@@ -1,2 +1,3 @@
-# SE_PROJECT
-Salary Prediction On Streamlit
+# simple_streamlit_app
+
+![](Capture.PNG)
